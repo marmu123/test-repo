@@ -60,3 +60,4 @@ for i in range(len(rez)):
 rez=[int(el) for el in rez]
 
 print(evalMultiClass(reader.testOutputs,rez)[0])
+#comm
