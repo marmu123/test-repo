@@ -22,11 +22,11 @@
 * AI
   - [Keras 1.1.2](https://keras.io/)
   - [Tensorflow 2.3.1](https://www.tensorflow.org/)
-  - [Skimage](https://scikit-image.org/docs/dev/api/skimage.html)
-  - [PIL](https://pillow.readthedocs.io/en/stable/)
+  - [Skimage 0.18](https://scikit-image.org/docs/dev/api/skimage.html)
+  - [PIL 2.2.2](https://pillow.readthedocs.io/en/stable/)
   - [Numpy 1.18.5](https://numpy.org/)
   - [Matplotlib](https://matplotlib.org/)
   - [Nibalbel 3.2.1](https://nipy.org/nibabel/)
   - [Pip 20.3.1](https://pypi.org/project/pip/)
  <p>Below you can find an user-friendly mind-map with the structure of the project </p>
- ![alt img]("path/to/img")
+ ![alt img](mindmap.PNG)
