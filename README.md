@@ -7,7 +7,7 @@
 <p>An application intended for medicine students which allows uploading an image, analyzing and visualizing relevant information about it.</p>
 <p>The application can detect various malformations and can help the student by teaching him to recognize them</p>
 
-##Technologies
+#Technologies
 
 <p>For this project we used Python as a server-side programming language and we integrated it with Swift on client-side</p>
 <The following are the frameworks and libraries used in developing the application:>
