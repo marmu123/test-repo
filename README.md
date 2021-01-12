@@ -1,6 +1,6 @@
 # Project Heartbroken #
 
-### A project that will help medicine students to be better doctors ###
+### A project that will help medicine students to become better doctors ###
 
 ## Project Purpose & Scope ##
 
@@ -20,12 +20,13 @@
   - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
   
 * AI
-  - [Keras](https://keras.io/)
+  - [Keras 1.1.2](https://keras.io/)
+  - [Tensorflow 2.3.1](https://www.tensorflow.org/)
   - [Skimage](https://scikit-image.org/docs/dev/api/skimage.html)
   - [PIL](https://pillow.readthedocs.io/en/stable/)
-  - [Numpy](https://numpy.org/)
+  - [Numpy 1.18.5](https://numpy.org/)
   - [Matplotlib](https://matplotlib.org/)
-  - [Nibalbel](https://nipy.org/nibabel/)
-  
+  - [Nibalbel 3.2.1](https://nipy.org/nibabel/)
+  - [Pip 20.3.1](https://pypi.org/project/pip/)
  <p>Below you can find an user-friendly mind-map with the structure of the project </p>
  ![alt img]("path/to/img")
