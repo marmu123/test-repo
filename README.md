@@ -28,4 +28,4 @@
   - [Nibalbel](https://nipy.org/nibabel/)
   
  <p>Below you can find an user-friendly mind-map with the structure of the project </p>
- ![alt img](<https://github.com/marmu123/test-repo/blob/master/mindmap.PNG?raw=true>)
+ ![alt img]("path/to/img")
