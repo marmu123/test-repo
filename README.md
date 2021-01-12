@@ -14,13 +14,17 @@
 
 * Front-end
   - [Firebase](https://firebase.google.com)
-  - Almonfire
+  - [Almonfire](https://github.com/Alamofire/Alamofire)
 
 * Back-end
-  - Flask
+  - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
   
 * AI
-  - Keras
-  - Skimage
-  - PIL
-  - 
+  - [Keras](https://keras.io/)
+  - [Skimage](https://scikit-image.org/docs/dev/api/skimage.html)
+  - [PIL](https://pillow.readthedocs.io/en/stable/)
+  - [Numpy](https://numpy.org/)
+  - [Matplotlib](https://matplotlib.org/)
+  - [Nibalbel](https://nipy.org/nibabel/)
+  
+ 
